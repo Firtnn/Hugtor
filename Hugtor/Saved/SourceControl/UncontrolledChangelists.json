@@ -6,6 +6,13 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Program Files/Epic Games/UE_5.6/Engine/Content/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid.uasset",
+				"C:/Users/Supra/Desktop/REPO/Hugtor/Hugtor/Content/Scene01/Scenes/Scene01.umap",
+				"C:/Users/Supra/Desktop/REPO/Hugtor/Hugtor/Content/Scene01/Meshs/Caillou1.uasset",
+				"C:/Users/Supra/Desktop/REPO/Hugtor/Hugtor/Content/Scene01/Meshs/Caillou2.uasset",
+				"C:/Users/Supra/Desktop/REPO/Hugtor/Hugtor/Content/Scene01/Meshs/HalfStatue.uasset",
+				"C:/Users/Supra/Desktop/REPO/Hugtor/Hugtor/Content/Scene01/Meshs/Statue.uasset",
+				"C:/Users/Supra/Desktop/REPO/Hugtor/Hugtor/Content/Scene01/Meshs/Tree1.uasset",
+				"C:/Users/Supra/Desktop/REPO/Hugtor/Hugtor/Content/Scene01/Meshs/Tree2.uasset",
 				"C:/Users/Hecto/Documents/GitHub/Hugtor/Hugtor/Content/Scene01/Scenes/Scene01.umap",
 				"C:/Users/Hecto/Documents/GitHub/Hugtor/Hugtor/Content/Scene01/Scenes/TestEffects.umap",
 				"C:/Users/Hecto/Documents/GitHub/Hugtor/Hugtor/Content/Scene01/Shaders/Materials/PP_Outline.uasset",
