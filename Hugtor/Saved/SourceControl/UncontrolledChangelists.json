@@ -8,12 +8,13 @@
 				"C:/Program Files/Epic Games/UE_5.6/Engine/Content/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid.uasset",
 				"C:/Users/Hecto/Documents/GitHub/Hugtor/Hugtor/Content/Scene01/Scenes/Scene01.umap",
 				"C:/Users/Hecto/Documents/GitHub/Hugtor/Hugtor/Content/Scene01/Scenes/TestEffects.umap",
-				"C:/Users/Hecto/Documents/GitHub/Hugtor/Hugtor/Content/Scene01/Materials/PP_Outline.uasset",
-				"C:/Users/Hecto/Documents/GitHub/Hugtor/Hugtor/Content/Scene01/Shaders/PP_Outline.uasset",
 				"C:/Users/Hecto/Documents/GitHub/Hugtor/Hugtor/Content/Scene01/Shaders/Materials/PP_Outline.uasset",
 				"C:/Users/Hecto/Documents/GitHub/Hugtor/Hugtor/Content/Scene01/Shaders/MaterialsFunctions/SampleOffset_Custom.uasset",
 				"C:/Users/Hecto/Documents/GitHub/Hugtor/Hugtor/Content/Scene01/Shaders/MaterialsFunctions/SamplePixel_Normal.uasset",
-				"C:/Users/Hecto/Documents/GitHub/Hugtor/Hugtor/Content/Scene01/Shaders/MaterialsFunctions/SamplePixel_Depht.uasset"
+				"C:/Users/Hecto/Documents/GitHub/Hugtor/Hugtor/Content/Scene01/Shaders/MaterialsFunctions/SamplePixel_Depht.uasset",
+				"C:/Users/Hecto/Documents/GitHub/Hugtor/Hugtor/Content/Scene01/Scenes/TestPP.umap",
+				"C:/Users/Hecto/Documents/GitHub/Hugtor/Hugtor/Content/Scene01/Materials/PP_Outline.uasset",
+				"C:/Users/Hecto/Documents/GitHub/Hugtor/Hugtor/Content/Scene01/Shaders/PP_Outline.uasset"
 			]
 		}
 	]
